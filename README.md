@@ -1,5 +1,8 @@
-# Procesamiento Google SpreadSheets 
+# Procesamiento GoogleSpreadSheets
 
-Ejercicio de Procesamiento de hojas de calculo con R
+Ejercicio de procesamiento de google spreadsheets con R
 
-Nuevos Cambios 
+Procesaremos información de una tarea de [reconocimiento de caras](https://openpsychometrics.org/_rawdata/)
+
+
+Nuevo archivo
